@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_description_formation_descriptions",
+  "info": {
+    "name": "formation_description",
+    "icon": "ankh"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": false
+    }
+  }
+}
